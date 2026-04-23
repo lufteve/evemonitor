@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "url": "https://github.com/lufteve/evemonitor/releases/latest",
-  "notes": "Fix: ESI credentials save button now works"
+  "notes": "Injector cost planning + Skill Plans UX refresh"
 }
