@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "url": "https://github.com/lufteve/evemonitor/releases/latest",
-  "notes": "Initial release."
+  "notes": "Fix: ESI credentials save button now works"
 }
