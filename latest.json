@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "url": "https://github.com/lufteve/evemonitor/releases/latest",
-  "notes": "New: Fleet Planner — multi-fleet doctrines with per-pilot skill breakdowns"
+  "notes": "Fix: fleets now persist across reloads"
 }
