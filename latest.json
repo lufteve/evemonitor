@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
+  "version": "1.1.0",
   "url": "https://github.com/lufteve/evemonitor/releases/latest",
-  "notes": "Injector cost planning + Skill Plans UX refresh"
+  "notes": "New: Fleet Planner — multi-fleet doctrines with per-pilot skill breakdowns"
 }
